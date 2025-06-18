@@ -7,8 +7,8 @@ import schedule
 from telegram import Bot
 
 # Telegram Setup
-bot = Bot(token='YOUR_TELEGRAM_BOT_TOKEN')
-chat_id = 'YOUR_CHAT_ID'
+bot = Bot(token='7619519095:AAESp-K6pEEgYRGYyIYzGuInuWxSUR5nGOg')
+chat_id = '6682835719'
 
 # Get All Binance Futures Symbols
 def get_futures_symbols():
